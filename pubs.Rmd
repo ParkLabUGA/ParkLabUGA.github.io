@@ -1,9 +1,9 @@
 ---
 title: "Publications from the lab"
-description:
 output:
   distill::distill_article:
     self_contained: false
 bibliography: publications.bib
 nocite: '@*'
+csl: biology-letters.csl
 ---

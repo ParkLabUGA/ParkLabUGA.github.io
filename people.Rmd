@@ -37,7 +37,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](images/daniel.png){width=50mm}
 
-"I am broadly interested in spatial modeling, model evaluation, and species’ range dynamics. For my PhD research, I am investigating how hosts’ parasite communities change between native and non-native ranges, across terrestrial mammals."
+"Hi. I am a PhD student and a trainee in the IDEAS program. In my PhD research I use mathematical modeling and empirical data to explain and predict how and when changes in host community composition can affect the transmission of parasites.”"
 
 
 ### TJ Odom
