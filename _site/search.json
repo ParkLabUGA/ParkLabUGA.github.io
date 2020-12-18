@@ -1,0 +1,41 @@
+{
+  "articles": [
+    {
+      "path": "alumni.html",
+      "title": "Former lab members",
+      "author": [],
+      "contents": "\nHere are some alumni\n\n\n\n",
+      "last_modified": "2020-12-18T11:44:39-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Welcome to the Park lab",
+      "description": "Ecology & Evolution of Host-Parasite Interactions\n",
+      "author": [],
+      "contents": "\n\nWe’re fascinated by how parasites interact with their hosts and the environment, and based in the Odum School of Ecology at the University of Georgia, we study host-parasite interactions within hosts, in populations and communities, and comparatively at the macroecology scale.\n\n\n\n",
+      "last_modified": "2020-12-18T11:45:35-05:00"
+    },
+    {
+      "path": "news.html",
+      "title": "News",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2020-12-18T11:44:40-05:00"
+    },
+    {
+      "path": "people.html",
+      "title": "Lab members",
+      "author": [],
+      "contents": "\nAndrew Park (PI)\n\n“I am an associate professor who develops theory to explain and predict population and evolutionary biology of host-parasite interactions”\nDavid Vasquez\n\n“I am a PhD student in Ecology and a trainee in the IDEAS program researching how ecological and environmental conditions can affect the fitness and geographic range of parasites”\nAnnakate Schatz\n\n“I am broadly interested in spatial modeling, model evaluation, and species’ range dynamics. For my PhD research, I am investigating how hosts’ parasite communities change between native and non-native ranges, across terrestrial mammals.”\nDaniel Suh\n\n“I am broadly interested in spatial modeling, model evaluation, and species’ range dynamics. For my PhD research, I am investigating how hosts’ parasite communities change between native and non-native ranges, across terrestrial mammals.”\nTJ Odom\n\n“TJ joined the lab this fall.”\n\n\n\n",
+      "last_modified": "2020-12-18T11:44:40-05:00"
+    },
+    {
+      "path": "pubs.html",
+      "title": "Publications",
+      "author": [],
+      "contents": "",
+      "last_modified": "2020-12-18T11:44:41-05:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

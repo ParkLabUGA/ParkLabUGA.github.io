@@ -1,0 +1,48 @@
+---
+title: "Lab members"
+description: |
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Andrew Park (PI)
+
+![](images/andrew.jpg){width=50mm}
+
+"I am an associate professor who develops theory to explain and predict population and evolutionary biology of host-parasite interactions"
+
+
+### David Vasquez
+
+![](images/david.png){width=50mm}
+
+"I am a PhD student in Ecology and a trainee in the IDEAS program researching how ecological and environmental conditions can affect the fitness and geographic range of parasites"
+
+
+### Annakate Schatz
+
+![](images/annakate.jpg){width=50mm}
+
+"I am broadly interested in spatial modeling, model evaluation, and species’ range dynamics. For my PhD research, I am investigating how hosts’ parasite communities change between native and non-native ranges, across terrestrial mammals."
+
+
+
+### Daniel Suh
+
+![](images/daniel.png){width=50mm}
+
+"I am broadly interested in spatial modeling, model evaluation, and species’ range dynamics. For my PhD research, I am investigating how hosts’ parasite communities change between native and non-native ranges, across terrestrial mammals."
+
+
+### TJ Odom
+
+![](images/TJ.png){width=50mm}
+
+"TJ joined the lab this fall."
+

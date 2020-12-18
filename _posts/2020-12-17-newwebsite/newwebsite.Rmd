@@ -1,0 +1,19 @@
+---
+title: "New lab website using {distill}"
+description: |
+  Moving the lab web site to {distill}
+author:
+  - name: Andrew Park
+date: 12-17-2020
+preview: rDistillIcon.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Using {distill}, the website is now written in Rmd (yay!) and not WordPress. 

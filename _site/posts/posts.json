@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/2020-12-17-newwebsite/",
+    "title": "New lab website using {distill}",
+    "description": "Moving the lab web site to {distill}",
+    "author": [
+      {
+        "name": "Andrew Park",
+        "url": {}
+      }
+    ],
+    "date": "2020-12-17",
+    "categories": [],
+    "contents": "\nUsing {distill}, the website is now written in Rmd (yay!) and not WordPress.\n\n\n\n",
+    "preview": "posts/2020-12-17-newwebsite/rDistillIcon.jpg",
+    "last_modified": "2020-12-17T14:34:46-05:00",
+    "input_file": {}
+  }
+]

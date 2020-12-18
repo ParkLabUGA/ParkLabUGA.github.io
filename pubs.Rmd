@@ -1,0 +1,18 @@
+---
+title: "Publications"
+description: null
+output:
+  html_document:
+    df_print: paged
+  distill::distill_article:
+    self_contained: no
+bibliography: publications.bib
+---
+
+[@Pappalardo2019]
+
+[@Park2019]
+
+[@Brett2018]
+
+## References
