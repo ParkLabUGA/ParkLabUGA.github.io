@@ -1,18 +1,9 @@
 ---
-title: "Publications"
-description: null
+title: "Publications from the lab"
+description:
 output:
-  html_document:
-    df_print: paged
   distill::distill_article:
-    self_contained: no
+    self_contained: false
 bibliography: publications.bib
+nocite: '@*'
 ---
-
-[@Pappalardo2019]
-
-[@Park2019]
-
-[@Brett2018]
-
-## References
