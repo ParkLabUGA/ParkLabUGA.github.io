@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](images/javiera.jpg){width=50mm}
 
-Javiera conducted research in the Lab in 2013-2014 on the theme of the role of biodiversity in predicting Leptospira spp prevalence in the state of Georgia as part of an exchange program before returning to Ecuador to complete her BS Ecology.
+Javiera conducted research in the Lab in 2013-2014 on the theme of the role of biodiversity in predicting Leptospira species prevalence in the state of Georgia as part of an exchange program before returning to Ecuador to complete her BS Ecology.
 
 ### Laura Alexander, Undergraduate Student and Research Assistant
 
@@ -49,7 +49,7 @@ Chris worked as a postdoctoral associate jointly with John Drake and Andrew on e
 
 ![](images/grant.jpg){width=50mm}
 
-I am an Ecology/Biology major and honors student. In the lab, my primary research focus is on understanding the specificity of complex life cycle parasites.
+Grant was an Ecology/Biology major and honors student. In the lab, his primary research focus was on understanding the specificity of complex life cycle parasites.
 
 ### Ash Griffin, PhD Student
 

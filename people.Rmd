@@ -15,14 +15,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](images/andrew.jpg){width=50mm}
 
-"I am an associate professor who develops theory to explain and predict population and evolutionary biology of host-parasite interactions"
+"I am an associate professor who develops theory to explain and predict population and evolutionary biology of host-parasite interactions" [CV](resources/parkCVdec2020.pdf) 
+
 
 
 ### David Vasquez
 
 ![](images/david.png){width=50mm}
 
-"I am a PhD student in Ecology and a trainee in the IDEAS program researching how ecological and environmental conditions can affect the fitness and geographic range of parasites"
+"I am a PhD student in Ecology and a trainee in the IDEAS program researching how ecological and environmental conditions can affect the abundance and geographic range of parasites"
 
 
 ### Annakate Schatz
@@ -37,12 +38,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](images/daniel.png){width=50mm}
 
-"Hi. I am a PhD student and a trainee in the IDEAS program. In my PhD research I use mathematical modeling and empirical data to explain and predict how and when changes in host community composition can affect the transmission of parasites.”"
+"Hi. I am a PhD student and a trainee in the IDEAS program. In my PhD research I use mathematical modeling and empirical data to explain and predict how and when changes in host community composition can affect the transmission of parasites."
 
 
 ### TJ Odom
 
 ![](images/TJ.png){width=50mm}
 
-"TJ joined the lab this fall."
+"I'm a PhD student and IDEAS trainee interested in how climate change may affect host-parasite interactions. I study this by researching the impacts of climate tracking host species on the interactions with their parasites."
 
