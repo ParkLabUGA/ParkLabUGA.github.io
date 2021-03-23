@@ -1,0 +1,20 @@
+---
+title: "Congratulation Daniel!"
+description: |
+  GRFP success
+author:
+  - name: Andrew Park
+date: 03-23-2021
+preview: Salamandra_Tigre.png
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Daniel has been awarded an NSF GRFP to support his research on how biotic and abiotic conditions combine to promote parasite transmission. Well done, Daniel!
+
