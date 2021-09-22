@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](images/andrew.jpg){width=50mm}
 
-"I am an associate professor who develops theory to explain and predict population and evolutionary biology of host-parasite interactions" [CV](resources/parkCVdec2020.pdf) 
+"I am a professor who develops theory to explain and predict population and evolutionary biology of host-parasite interactions" [CV](resources/parkCVmay2021.pdf) 
 
 
 
